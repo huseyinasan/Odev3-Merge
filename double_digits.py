@@ -8,3 +8,4 @@ for i in birdenYuze:
 print(uceBolunenler)
 
 print("new branch added")
+print("functions branch added")
