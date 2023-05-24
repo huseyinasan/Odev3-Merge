@@ -6,3 +6,5 @@ for i in birdenYuze:
         uceBolunenler.append(i)
 
 print(uceBolunenler)
+
+print("new branch added")
